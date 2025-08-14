@@ -1,0 +1,29 @@
+<svg width="60" height="64" viewBox="0 0 60 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.8">
+<rect x="1.10547" y="28.7817" width="45.1625" height="33.548" rx="3.5" transform="rotate(-8.93571 1.10547 28.7817)" fill="url(#paint0_linear_1075_47359)"/>
+</g>
+<g clip-path="url(#clip0_1075_47359)">
+<rect x="3.39661" y="22.8037" width="43.376" height="35.9667" rx="2.1751" transform="rotate(-8.25463 3.39661 22.8037)" fill="white"/>
+<g clip-path="url(#clip1_1075_47359)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.0543 3.64323L23.2716 6.65657L24.9935 18.5324L45.7762 15.519L44.0543 3.64323ZM45.9195 16.5087L25.1368 19.5221L26.8587 31.3979L47.6414 28.3845L45.9195 16.5087ZM3.36435 22.6789L24.147 19.6656L25.8689 31.5414L5.08626 34.5547L3.36435 22.6789ZM22.2818 6.80009L1.49912 9.81343L3.22103 21.6892L24.0037 18.6759L22.2818 6.80009ZM27.002 32.3875L47.7847 29.3742L49.5066 41.25L28.724 44.2633L27.002 32.3875ZM26.0123 32.531L5.22958 35.5444L6.9515 47.4202L27.7342 44.4069L26.0123 32.531ZM28.8673 45.253L49.65 42.2397L51.3719 54.1155L30.5892 57.1288L28.8673 45.253ZM27.8785 45.3965L7.0958 48.4099L8.81771 60.2857L29.6004 57.2723L27.8785 45.3965Z" fill="url(#paint1_radial_1075_47359)" fill-opacity="0.2"/>
+</g>
+<rect x="27.0021" y="32.3877" width="21" height="12" transform="rotate(-8.25 27.0021 32.3877)" fill="#EBEFF0"/>
+</g>
+<rect x="2.78039" y="22.3436" width="44.4636" height="37.0542" rx="2.71887" transform="rotate(-8.25463 2.78039 22.3436)" stroke="white" stroke-width="1.08755"/>
+<defs>
+<linearGradient id="paint0_linear_1075_47359" x1="-5.02691" y1="58.9413" x2="0.0180832" y2="24.9726" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5E828C"/>
+<stop offset="1" stop-color="#5E828C" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="paint1_radial_1075_47359" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(5.97467 3.93693) rotate(53.5485) scale(55.0909 46.949)">
+<stop offset="0.238993" stop-color="#5E828C"/>
+<stop offset="1" stop-color="#5E828C" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_1075_47359">
+<rect x="3.39661" y="22.8037" width="43.376" height="35.9667" rx="2.1751" transform="rotate(-8.25463 3.39661 22.8037)" fill="white"/>
+</clipPath>
+<clipPath id="clip1_1075_47359">
+<rect x="1.49915" y="9.81348" width="44" height="49" rx="1" transform="rotate(-8.25 1.49915 9.81348)" fill="white"/>
+</clipPath>
+</defs>
+</svg>
